@@ -11,8 +11,6 @@ class LocationScreen extends StatefulWidget {
   _LocationScreenState createState() => _LocationScreenState();
 }
 
-void updateUI() {}
-
 class _LocationScreenState extends State<LocationScreen> {
   var temperature;
   var weatherIcon;
